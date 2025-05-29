@@ -1,0 +1,231 @@
+{
+  "document": {
+    "title": "Guía para la elaboración de un Plan SySO",
+    "description": "Establece los aspectos básicos a tener en cuenta para diseñar un plan de seguridad para empresas contratistas de UPM Forestal Oriental.",
+    "type": "Plan de Seguridad",
+    "elaborated_by": "Equipo SySO",
+    "approved_by": "Gerencia SySO",
+    "version": "V2",
+    "date": "01-01-2022",
+    "pages": "5"
+  },
+  "sections": [
+    {
+      "section": "1. Carátula",
+      "content": {
+        "requirements": [
+          "Nombre de la empresa",
+          "Proceso al que pertenece",
+          "Fecha de confección",
+          "Nombre del Técnico Prevencionista o título similar habilitante",
+          "Participación de al menos un responsable de Operación",
+          "Aprobado por la Dirección de la empresa"
+        ]
+      }
+    },
+    {
+      "section": "2. Introducción",
+      "content": {
+        "description": "Presentación de la empresa y detalle de los servicios que presta."
+      }
+    },
+    {
+      "section": "3. Política de Seguridad",
+      "content": {
+        "requirements": [
+          "Compromiso de la alta dirección para la eliminación o reducción de peligros y riesgos",
+          "Cumplir requisitos legales y otros requisitos",
+          "Mejora continua del sistema de gestión",
+          "Consulta y participación de los trabajadores",
+          "Marco de referencia para establecer objetivos"
+        ],
+        "additional_info": [
+          "En caso de Sistemas Integrados, se puede generar una Política de gestión que incluya Seguridad, Calidad, Medio ambiente, etc.",
+          "Debe estar firmada por el responsable global de la EPS"
+        ]
+      }
+    },
+    {
+      "section": "4. Alcance",
+      "content": {
+        "description": "Abarca todas las actividades realizadas por la empresa y sus subcontratos dentro de los predios forestales.",
+        "considerations": [
+          "Tareas realizadas por subcontratos (ejemplo: carga de combustible, mantenimiento de equipos, traslado de maquinarias, contratación de cuadrillas, etc.)",
+          "Ingreso de visitas a los predios"
+        ]
+      }
+    },
+    {
+      "section": "5. Roles y Responsabilidades",
+      "content": {
+        "description": "Definir y establecer claramente las funciones de todos los integrantes de la organización para el cumplimiento del plan.",
+        "requirements": [
+          "Incluir un organigrama o descripción de la estructura de la organización",
+          "Contemplar a las personas que dan soporte a la gestión de Seguridad y Salud"
+        ]
+      }
+    },
+    {
+      "section": "6. Participación y Consulta",
+      "content": {
+        "description": "Establecer, implementar y mantener procesos para la consulta y participación de los trabajadores a todos los niveles y funciones, cumpliendo normativa legal vigente.",
+        "details": [
+          "Frecuencia de reuniones",
+          "Participantes",
+          "Temas generales a tratar"
+        ]
+      }
+    },
+    {
+      "section": "7. Objetivos",
+      "content": {
+        "description": "Establecer objetivos SMART (específico, medible, alcanzable, relevante, temporal).",
+        "requirements": [
+          "Alineados con las Políticas de Seguridad y Salud de la empresa",
+          "Apuntan a la mejora continua"
+        ]
+      }
+    },
+    {
+      "section": "8. Recursos",
+      "content": {
+        "requirements": [
+          {
+            "item": "Cantidad de personal",
+            "details": "Personal afectado a las diferentes tareas y categoría (ejemplo: chofer, tractorista, peón, etc.)"
+          },
+          {
+            "item": "Vehículos y maquinaria",
+            "details": "Resumen con marca, modelo y año"
+          },
+          {
+            "item": "Herramientas y equipos",
+            "details": "Detalle genérico de herramientas manuales, eléctricas, soldadoras, generadores, etc."
+          },
+          {
+            "item": "Sustancias químicas",
+            "details": [
+              "Listado con denominación corriente del producto",
+              "Principio activo",
+              "Cantidad aproximada",
+              "Calidad de riesgo (tóxico, corrosivo, inflamable, explosivo, oxidante, radiactivo o nocivo)",
+              "Instrucciones de manipulación, almacenamiento y primeros auxilios"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "section": "9. Tareas y Actividades",
+      "content": {
+        "description": "Identificar y describir las diferentes tareas que realiza la empresa, aclarando si son habituales o no.",
+        "considerations": [
+          "Incluir actividades realizadas fuera de los predios de UPM Forestal Oriental (área administrativa, talleres, etc.)"
+        ]
+      }
+    },
+    {
+      "section": "10. Identificación de Peligros y Riesgos por Tarea (IPER)",
+      "content": {
+        "description": "Abarca todos los sectores, turnos y actividades realizadas por la empresa.",
+        "requirements": [
+          "Alinear medidas preventivas con la evaluación de riesgos (procedimientos, instructivos, equipamiento, ergonomía, capacitación, señalización, habilitaciones, controles, etc.)",
+          "Describir el método y procedimiento de la Identificación de Peligro y Evaluación de Riesgo (IPER)"
+        ],
+        "revision": {
+          "description": "Revisión de la IPER en los siguientes casos:",
+          "scenarios": [
+            "Ejecución de nuevos proyectos",
+            "Cambio en los procesos",
+            "Auditorías o revisiones generales del Sistema de Gestión SySO",
+            "Luego de ocurrido un incidente",
+            "Cambios en la legislación"
+          ],
+          "default_revision": "Revisión anual si no se presentan los escenarios anteriores, verificando peligros iniciales, nuevos peligros o eliminando los no relevantes"
+        }
+      }
+    },
+    {
+      "section": "11. Condiciones de Bienestar",
+      "content": {
+        "description": "Descripción de las instalaciones destinadas a los trabajadores, conforme a la normativa vigente y estándares de UPM Forestal Oriental, con sus controles correspondientes."
+      }
+    },
+    {
+      "section": "12. Medidas de Intervención",
+      "content": {
+        "description": "Identificar y describir medidas de control para eliminar o reducir el nivel de riesgo a un valor aceptable, utilizando la Jerarquía del Control de los Riesgos:",
+        "hierarchy": [
+          "Eliminar",
+          "Sustituir",
+          "Rediseñar y/o modificar",
+          "Separar y/o aislar",
+          "Administrar o controlar",
+          "Equipos de Protección Personal"
+        ],
+        "measures": [
+          {
+            "type": "Correctivas",
+            "description": "Medidas para eliminar o minimizar riesgos existentes, incluyendo factores organizacionales o estructurales (ejemplo: mantenimiento correctivo)."
+          },
+          {
+            "type": "Preventivas",
+            "description": "Medidas para mejorar la conducta de las personas, maquinaria, tecnología y controles administrativos.",
+            "includes": [
+              "Plan de mantenimiento preventivo",
+              "Plan de capacitación",
+              "Procedimientos de trabajo seguro",
+              "Cartelería",
+              "Folletos informativos"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "section": "13. Registro y Notificación de Incidentes/Accidentes",
+      "content": {
+        "description": "Registrar claramente los incidentes/accidentes para elaborar estadísticas de accidentabilidad.",
+        "management": [
+          "Análisis",
+          "Causas",
+          "Notificación",
+          "Investigación",
+          "Medidas preventivas o correctivas para evitar repetición"
+        ],
+        "additional_info": [
+          "Considerar documentos específicos de UPM Forestal Oriental para notificación e investigación de incidentes/accidentes"
+        ]
+      }
+    },
+    {
+      "section": "14. Capacitación",
+      "content": {
+        "description": "Evaluar necesidades de capacitación SySO basadas en la IPER y el análisis de causas, gravedad y frecuencia de incidentes/desvíos.",
+        "training_plan": {
+          "requirements": [
+            "Tema",
+            "Responsable",
+            "Público objeto",
+            "Fecha (anuales, mensuales, semanales, periódicas u ocasionales)",
+            "Duración",
+            "Evaluación (método a utilizar)",
+            "Seguimiento (verificación de la capacitación)"
+          ]
+        },
+        "training_topics": [
+          "Inducción de Seguridad General",
+          "Charla de inicio de actividades (al iniciar actividades en un predio)",
+          "Concientización",
+          "Información de riesgos",
+          "Manipulación segura de productos químicos",
+          "Manipulación manual de cargas",
+          "Conducción segura de vehículos (seguridad vial)",
+          "Ergonomía",
+          "Mantenimiento y uso de herramientas y equipos",
+          "Estándares de UPM Forestal Oriental"
+        ]
+      }
+    }
+  ]
+}
